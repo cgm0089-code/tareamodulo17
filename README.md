@@ -1,2 +1,1 @@
-In this project, we realise a web with 10 code smells.
-The solution of this project is understand the code and apply a we project
+In this project, we aim to thoroughly analyze and identify ten distinct code smells within our existing codebase, understanding not only their implications on maintainability and readability but also applying effective refactoring techniques to correct these issues, thereby enhancing the overall quality of the code, making it more efficient, and ultimately extending its functionality to better meet the needs of our users and stakeholders.
